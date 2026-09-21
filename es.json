@@ -62,5 +62,37 @@
         "context": "save",
         "labels": "unassigned",
         "max_length": null
+    },
+    {
+        "identifier": "page_1.header",
+        "source_string": "Register Location",
+        "translation": "Registrar ubicación",
+        "context": "register_location",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.app_explore",
+        "source_string": "Explore",
+        "translation": "Explorar",
+        "context": "explore",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.app_statistics",
+        "source_string": "Statistics",
+        "translation": "Estadísticas",
+        "context": "statistics",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.app_profile",
+        "source_string": "Profile",
+        "translation": "Perfil",
+        "context": "profile",
+        "labels": "unassigned",
+        "max_length": null
     }
 ]
