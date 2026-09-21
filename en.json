@@ -94,5 +94,77 @@
         "context": "profile",
         "labels": "unassigned",
         "max_length": null
+    },
+    {
+        "identifier": "page_1.new_key_test_1",
+        "source_string": "Prueba string in new branch",
+        "translation": "Prueba string in new branch",
+        "context": "prueba_string_in_new_branch",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.app_country",
+        "source_string": "Country",
+        "translation": "Country",
+        "context": "country",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.app_continent",
+        "source_string": "Continent",
+        "translation": "Continent",
+        "context": "continent",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.app_city",
+        "source_string": "City",
+        "translation": "City",
+        "context": "city",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.new_key_test_2",
+        "source_string": "testing second flat key",
+        "translation": "testing second flat key",
+        "context": "testing_second_flat_key",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.new_key_test_3_title",
+        "source_string": "testing third flat key",
+        "translation": "testing third flat key",
+        "context": "testing_third_flat_key",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.new_key_testing_quoted",
+        "source_string": "testing new key quoted - edited in figma",
+        "translation": "testing new key quoted - edited in figma",
+        "context": "testing_new_key_quoted",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.app_save",
+        "source_string": "Save",
+        "translation": "Save",
+        "context": "save",
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "page_1.header",
+        "source_string": "Register Location",
+        "translation": "Register Location",
+        "context": "register_location",
+        "labels": "unassigned",
+        "max_length": null
     }
 ]
