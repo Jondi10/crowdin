@@ -170,7 +170,7 @@
     {
         "identifier": "page_1.page_1_operate_title",
         "source_string": "Operate in Open Admin",
-        "translation": "Operate in Open Admin",
+        "translation": "Operare in Open Admin",
         "context": "operate_in_open_admin",
         "labels": "unassigned",
         "max_length": null
@@ -178,7 +178,7 @@
     {
         "identifier": "page_1.page_1_operate_description",
         "source_string": "present your files in the AEAT with one click",
-        "translation": "present your files in the AEAT with one click",
+        "translation": "presenta i tuoi file nell'AEAT con un clic",
         "context": "present_your_files_in_the_aeat_with_one_click",
         "labels": "unassigned",
         "max_length": null
