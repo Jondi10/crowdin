@@ -1,66 +1,11 @@
-[
-    {
-        "identifier": "page_1.new_key_test_1",
-        "source_string": "Prueba string in new branch",
-        "translation": "Prueba string en nueva rama",
-        "context": "prueba_string_in_new_branch",
-        "labels": "unassigned",
-        "max_length": null
-    },
-    {
-        "identifier": "page_1.app_country",
-        "source_string": "Country",
-        "translation": "Pais",
-        "context": "country",
-        "labels": "unassigned",
-        "max_length": null
-    },
-    {
-        "identifier": "page_1.app_continent",
-        "source_string": "Continent",
-        "translation": "Continuar",
-        "context": "continent",
-        "labels": "unassigned",
-        "max_length": null
-    },
-    {
-        "identifier": "page_1.app_city",
-        "source_string": "City",
-        "translation": "Ciudad",
-        "context": "city",
-        "labels": "unassigned",
-        "max_length": null
-    },
-    {
-        "identifier": "page_1.new_key_test_2",
-        "source_string": "testing second flat key",
-        "translation": "prueba de segunda clave plana",
-        "context": "testing_second_flat_key",
-        "labels": "unassigned",
-        "max_length": null
-    },
-    {
-        "identifier": "page_1.new_key_test_3_title",
-        "source_string": "testing third flat key",
-        "translation": "probando tercera llave plana",
-        "context": "testing_third_flat_key",
-        "labels": "unassigned",
-        "max_length": null
-    },
-    {
-        "identifier": "page_1.new_key_testing_quoted",
-        "source_string": "testing new key quoted - edited in figma",
-        "translation": "prueba de nueva clave citada",
-        "context": "testing_new_key_quoted",
-        "labels": "unassigned",
-        "max_length": null
-    },
-    {
-        "identifier": "page_1.app_save",
-        "source_string": "Save",
-        "translation": "Guardar",
-        "context": "save",
-        "labels": "unassigned",
-        "max_length": null
-    }
-]
+{
+    "page_1.new_key_test_1": "Prueba string en nueva rama",
+    "page_1.app_country": "Pais",
+    "page_1.app_continent": "Continuar",
+    "page_1.app_city": "Ciudad",
+    "page_1.new_key_test_2": "prueba de segunda clave plana",
+    "page_1.new_key_test_3_title": "probando tercera llave plana",
+    "page_1.new_key_testing_quoted": "prueba de nueva clave citada",
+    "page_1.app_save": "Guardar",
+    "page_1.header": "Registrar ubicación"
+}
