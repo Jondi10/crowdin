@@ -7,5 +7,7 @@
     "page_1.new_key_test_3_title": "prova terza chiave piatta",
     "page_1.new_key_testing_quoted": "testare la nuova chiave citata",
     "page_1.app_save": "Salva",
-    "page_1.header": "Registra Posizione"
+    "page_1.header": "Registra Posizione",
+    "page_1.page_1_operate_title": "Operare in Open Admin",
+    "page_1.page_1_operate_description": "presenta i tuoi file nell'AEAT con un clic"
 }
