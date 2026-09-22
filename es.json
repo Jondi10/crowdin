@@ -9,5 +9,8 @@
     "page_1.app_save": "Guardar",
     "page_1.header": "Registrar ubicación",
     "page_1.page_1_operate_title": "Operar en Open Admin",
-    "page_1.page_1_operate_description": "presenta tus archivos en el AEAT con un solo clic"
+    "page_1.page_1_operate_description": "presenta tus archivos en el AEAT con un solo clic",
+    "page_1.app_explore": "Explorar",
+    "page_1.app_statistics": "Estadísticas",
+    "page_1.app_profile": "Perfil"
 }
