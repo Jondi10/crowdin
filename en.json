@@ -13,5 +13,7 @@
     "page_1.app_explore": "Explore",
     "page_1.app_statistics": "Statistics",
     "page_1.app_profile": "Profile",
-    "page_1.string_created_from_tz_005": "String created from tz-005"
+    "page_1.string_created_from_tz_005": "String created from tz-005",
+    "page_1.page_1_header": "Register Location",
+    "page_1.subtitle_register_location": "subtitle register location"
 }
