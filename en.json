@@ -21,5 +21,6 @@
     "tz_007_frame.long_text_of_frame_7_that_should_mimic_a_description": "Long text of frame 7 that should mimic a description",
     "tz_008_frame.title_of_tz_008_frame": "Title of TZ-008-frame",
     "tz_008_frame.subititle_of_tz_008_frame": "Subititle of TZ-008 frame",
-    "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "the description of the frame number 8 for testing how strings link when merging a branch"
+    "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "the description of the frame number 8 for testing how strings link when merging a branch",
+    "tz_009_frame.just_one_string_for_tz_009_feature": "just one string for tz 009 feature"
 }
