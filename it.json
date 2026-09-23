@@ -15,5 +15,11 @@
     "page_1.app_profile": "Profilo",
     "page_1.string_created_from_tz_005": "Stringa creata da tz-005",
     "page_1.page_1_header": "Registra Posizione",
-    "page_1.subtitle_register_location": "posizione del registro dei sottotitoli"
+    "page_1.subtitle_register_location": "posizione del registro dei sottotitoli",
+    "tz_007_frame.title_of_frame_7": "Title of frame 7",
+    "tz_007_frame.subtitle_of_frame_7": "subtitle of frame 7",
+    "tz_007_frame.long_text_of_frame_7_that_should_mimic_a_description": "Long text of frame 7 that should mimic a description",
+    "tz_008_frame.title_of_tz_008_frame": "Titolo del frame TZ-008",
+    "tz_008_frame.subititle_of_tz_008_frame": "Subititolo del telaio TZ-008",
+    "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "la descrizione del frame numero 8 per verificare il collegamento delle stringhe quando si unisce un ramo"
 }
