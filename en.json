@@ -13,5 +13,14 @@
     "page_1.app_explore": "Explore",
     "page_1.app_statistics": "Statistics",
     "page_1.app_profile": "Profile",
-    "page_1.string_created_from_tz_005": "String created from tz-005"
+    "page_1.string_created_from_tz_005": "String created from tz-005",
+    "page_1.page_1_header": "Register Location",
+    "page_1.subtitle_register_location": "subtitle register location",
+    "tz_007_frame.title_of_frame_7": "Title of frame 7",
+    "tz_007_frame.subtitle_of_frame_7": "subtitle of frame 7",
+    "tz_007_frame.long_text_of_frame_7_that_should_mimic_a_description": "Long text of frame 7 that should mimic a description",
+    "tz_008_frame.title_of_tz_008_frame": "Title of TZ-008-frame",
+    "tz_008_frame.subititle_of_tz_008_frame": "Subititle of TZ-008 frame",
+    "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "the description of the frame number 8 for testing how strings link when merging a branch",
+    "tz_009_frame.just_one_string_for_tz_009_feature": "just one string for tz 009 feature"
 }
