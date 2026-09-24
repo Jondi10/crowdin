@@ -13,5 +13,14 @@
     "page_1.app_explore": "Explorar",
     "page_1.app_statistics": "Estadísticas",
     "page_1.app_profile": "Perfil",
-    "page_1.string_created_from_tz_005": "Cadena creada a partir de tz-005"
+    "page_1.string_created_from_tz_005": "Cadena creada a partir de tz-005",
+    "page_1.page_1_header": "Registrar ubicación",
+    "page_1.subtitle_register_location": "ubicación de registro de subtítulos",
+    "tz_007_frame.title_of_frame_7": "Title of frame 7",
+    "tz_007_frame.subtitle_of_frame_7": "subtitle of frame 7",
+    "tz_007_frame.long_text_of_frame_7_that_should_mimic_a_description": "Long text of frame 7 that should mimic a description",
+    "tz_008_frame.title_of_tz_008_frame": "Título del fotograma TZ-008",
+    "tz_008_frame.subititle_of_tz_008_frame": "Subitítulo del fotograma TZ-008",
+    "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "la descripción del número de fotograma 8 para probar cómo enlazar cadenas al combinar una rama",
+    "tz_009_frame.just_one_string_for_tz_009_feature": "solo una cadena para la característica tz 009"
 }
