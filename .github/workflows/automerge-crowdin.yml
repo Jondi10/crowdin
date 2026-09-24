@@ -11,7 +11,6 @@ permissions:
 jobs:
   enable-automerge:
     runs-on: ubuntu-latest
-    if: startsWith(github.head_ref, 'l10n_staging')
     steps:
       - name: Enable GitHub Auto-Merge
         run: gh pr merge --merge "$PR_URL"
