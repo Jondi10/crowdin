@@ -22,5 +22,6 @@
     "tz_008_frame.title_of_tz_008_frame": "Titolo del frame TZ-008",
     "tz_008_frame.subititle_of_tz_008_frame": "Subititolo del telaio TZ-008",
     "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "la descrizione del frame numero 8 per verificare il collegamento delle stringhe quando si unisce un ramo",
-    "tz_009_frame.just_one_string_for_tz_009_feature": "solo una stringa per la funzione tz 009"
+    "tz_009_frame.just_one_string_for_tz_009_feature": "solo una stringa per la funzione tz 009",
+    "test_auto_merge_tz_009_to_staging_branch": "test auto merge tz-009 al ramo staging"
 }
