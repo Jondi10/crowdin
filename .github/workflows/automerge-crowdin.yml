@@ -1,7 +1,14 @@
 name: Auto-Merge Crowdin PRs
 
 on:
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'PR Number to merge (e.g., 9)'
+        required: true
+        type: string
   pull_request:
+    branches: [staging-10, main]
     types: [opened, synchronize, reopened]
 
 permissions:
@@ -13,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Enable GitHub Auto-Merge
-        run: gh pr merge --merge "$PR_URL"
+        run: gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --auto --merge
         env:
-          PR_URL: ${{ github.event.pull_request.html_url }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
