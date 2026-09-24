@@ -8,7 +8,6 @@ on:
         required: true
         type: string
   pull_request:
-    branches: [l10n_staging-10, staging-10, main]
     types: [opened, synchronize, reopened]
 
 permissions:
