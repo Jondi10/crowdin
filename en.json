@@ -24,5 +24,6 @@
     "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "the description of the frame number 8 for testing how strings link when merging a branch",
     "tz_009_frame.just_one_string_for_tz_009_feature": "just one string for tz 009 feature",
     "test_auto_merge_tz_009_to_staging_branch": "test auto merge tz-009 to staging branch",
-    "force_creation_of_pr": "force creation of pr"
+    "force_creation_of_pr": "force creation of pr",
+    "force_another_creation_after_workflow_change": "force another creation after workflow change"
 }

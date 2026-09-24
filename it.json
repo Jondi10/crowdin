@@ -24,5 +24,6 @@
     "tz_008_frame.the_description_of_the_frame_number_8_for_testi": "la descrizione del frame numero 8 per verificare il collegamento delle stringhe quando si unisce un ramo",
     "tz_009_frame.just_one_string_for_tz_009_feature": "solo una stringa per la funzione tz 009",
     "test_auto_merge_tz_009_to_staging_branch": "test auto merge tz-009 al ramo staging",
-    "force_creation_of_pr": "creazione di forza di pr"
+    "force_creation_of_pr": "creazione di forza di pr",
+    "force_another_creation_after_workflow_change": "force another creation after workflow change"
 }
