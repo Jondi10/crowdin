@@ -11,8 +11,7 @@ permissions:
 jobs:
   enable-automerge:
     runs-on: ubuntu-latest
-    # Adjust 'l10n_' if you customized your Crowdin service branch prefix
-    if: startsWith(github.head_ref, 'l10n_')
+    if: startsWith(github.head_ref, 'l10n_staging')
     steps:
       - name: Enable GitHub Auto-Merge
         run: gh pr merge --auto --merge "$PR_URL"
